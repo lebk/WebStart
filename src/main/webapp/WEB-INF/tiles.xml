@@ -15,10 +15,10 @@
 	</definition>
 
 	<definition name="HomePage" extends="baseLayout">
-		<put-attribute name="title" value="显示库存状态" />
+		<put-attribute name="title" value="娱乐天地" />
 		<put-attribute name="body" value="/pages/HomePage.jsp" />
 	</definition>
 
-	
+
 
 </tiles-definitions>
