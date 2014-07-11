@@ -22,11 +22,9 @@ margin-top:12%;
 } 
 </style>
 </head>
-
-
 <body>
 <br/>
-<h1> 佳瑞佳仓存管理系统</h1>
+<h1> 我的网站</h1>
 <s:actionerror />
 <s:form action="login.action" method="post">
 	<s:textfield name="username" key="用户" size="20" />
