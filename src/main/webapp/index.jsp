@@ -1,13 +1,14 @@
-<%@ page contentType="text/html; charset=UTF-8"%>
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<%@ page contentType="text/html; charset=UTF-8" %>
+<%@ taglib prefix="s" uri="/struts-tags"%>
 <html>
 <head>
-    <META HTTP-EQUIV="Refresh" CONTENT="0;URL=showProductListtilesAction.action"/>
-</head>
 
+<title>欢迎使用本系统</title>
+<link href="<s:url value="/css/main.css"/>" rel="stylesheet"
+	type="text/css" />
+
+	</head>
 <body>
-<div style="text-align:center">
-<h1 style="font-size:150%">载入中...</h1>
-</div>
+<h2>从这里开始</h2>
 </body>
 </html>
