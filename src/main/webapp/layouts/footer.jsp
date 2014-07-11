@@ -3,6 +3,6 @@
 <center>
 <DIV id=footer>
 <a href="<s:url action="aboutSystemtilesAction.action"/>"><font color="yellow"><u>关于本系统</u></font></a>
-<P>佳瑞佳木业仓存系统-仅供内部使用</P>
+<P>内部测试版本</P>
 </DIV>
 </center>
