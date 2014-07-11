@@ -14,7 +14,7 @@
     <title>娱乐天地</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/WebStart/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
     <link href="http://v3.bootcss.com/examples/blog/blog.css" rel="stylesheet">
@@ -36,7 +36,6 @@
         </nav>
       </div>
     </div>
-
     <div class="container">
       <div class="row">
         <div class="col-sm-8 blog-main">
@@ -60,9 +59,9 @@
     <!-- Bootstrap core JavaScript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-    <script src="./css//jquery.min.js"></script>
-    <script src="./css/bootstrap.min.js"></script>
-    <script src="./css/docs.min.js"></script>
+    <script src="/WebStart/css//jquery.min.js"></script>
+    <script src="/WebStart/css/bootstrap.min.js"></script>
+    <script src="/WebStart/css/docs.min.js"></script>
   
 </body>
 </html>
